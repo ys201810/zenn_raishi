@@ -3,7 +3,7 @@ title: "3冊目 エッセンシャル思考"
 emoji: "📙"
 type: "idea" # tech: 技術記事 / idea: アイデア
 topics: [読書, rstar4]
-published: false
+published: true
 ---
 
 ## 概要
