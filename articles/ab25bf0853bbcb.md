@@ -1,6 +1,6 @@
 ---
 title: "読書をまとめるのをzennでやってみようかな"
-emoji: "📘"
+emoji: "💡"
 type: "idea" # tech: 技術記事 / idea: アイデア
 topics: [読書]
 published: true
