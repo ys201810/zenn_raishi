@@ -11,7 +11,7 @@ published: true
 |:--|:--|
 |タイトル|[エッセンシャル思考]https://www.amazon.co.jp/%E3%82%A8%E3%83%83%E3%82%BB%E3%83%B3%E3%82%B7%E3%83%A3%E3%83%AB%E6%80%9D%E8%80%83-%E6%9C%80%E5%B0%91%E3%81%AE%E6%99%82%E9%96%93%E3%81%A7%E6%88%90%E6%9E%9C%E3%82%92%E6%9C%80%E5%A4%A7%E3%81%AB%E3%81%99%E3%82%8B-%E3%82%B0%E3%83%AC%E3%83%83%E3%82%B0-%E3%83%9E%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%B3/dp/4761270438)|
 |発表年|2014|
-|読んだ日|2033/9/16|
+|読んだ日|2023/9/16|
 |お勧め度|⭐️⭐️⭐️⭐️|
 
 ## 読んだ理由
@@ -94,7 +94,7 @@ published: true
 これを再現させないようにしたい。
 
 エッセンシャル思考
-![Alt text](</images/1.png>)
+![エッセンシャル思考1](https://storage.googleapis.com/zenn-user-upload/4690a5c5f464-20230917.png)
 
 ```
 無意味な雑用を断るだけでなく、魅力的なチャンスを切り捨てることも必要になる。
@@ -154,8 +154,7 @@ published: true
 それを決定することができるのは自分であり、誰かが決定するわけではない。
 ただ、捨てられないから本当にやるべきことを手放すのみ。
 
-![Alt text](</images/2.png>)
-
+![エッセンシャル思考2](https://storage.googleapis.com/zenn-user-upload/258c01d8680c-20230917.png)
 
 ```
 子供の頃、小遣い稼ぎのためにアルバイトをしたことがある。
@@ -292,7 +291,7 @@ published: true
 「これは本質目標と無関係では？」と意見を述べることも可能だ。
 ```
 
-![Alt text](</images/3.png>)
+![3](https://storage.googleapis.com/zenn-user-upload/03c7a3200742-20230917.png)
 
 本質目標とは、具体的で刺激的。
 
@@ -344,7 +343,7 @@ published: true
 小さな進捗を重ねているかどうか、適切にチェックする
 ```
 
-![Alt text](</images/4.png>)
+![4](https://storage.googleapis.com/zenn-user-upload/cc346e77e58c-20230917.png)
 
 こうありたい・・・！
 
