@@ -343,7 +343,7 @@ published: true
 小さな進捗を重ねているかどうか、適切にチェックする
 ```
 
-![4](images/4.png)
+![4](https://storage.googleapis.com/zenn-user-upload/cc346e77e58c-20230917.png)
 
 こうありたい・・・！
 
