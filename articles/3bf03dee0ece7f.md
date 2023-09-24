@@ -2,7 +2,7 @@
 title: "4冊目 なぜ「戦略」で差がつくのか"
 emoji: "📕"
 type: "idea" # tech: 技術記事 / idea: アイデア
-topics: [読書, rstar5]
+topics: [読書, rstar3]
 published: true
 ---
 
