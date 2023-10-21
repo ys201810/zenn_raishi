@@ -27,4 +27,4 @@ published: true
 |5|2023/9/21|[シリコンバレー式 最強の育て方 人材マネジメントの新しい常識 1on1ミーティング](https://zenn.dev/raishi12/articles/3fe1a5c1050963)|マネージャー|
 |6|2023/9/24|[急成長を導くマネージャーの型 ~地位・権力が通用しない時代の“イーブン"なマネジメント](https://zenn.dev/raishi12/articles/4e8a9ff3a5e03f)|マネージャー|
 |7|2023/10/8|[zero to one](https://zenn.dev/raishi12/articles/15c85361b7ebfd)|新規事業開発|
-
+|8|2023/10/22|[GitLabに学ぶ 世界最先端のリモート組織のつくりかた](https://zenn.dev/raishi12/articles/17ed3e0e35787d)|コラボレーション|
