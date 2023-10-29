@@ -30,4 +30,4 @@ published: true
 |8|2023/10/22|[GitLabに学ぶ 世界最先端のリモート組織のつくりかた](https://zenn.dev/raishi12/articles/17ed3e0e35787d)|コラボレーション|
 |9|2023/10/23|[言語化の魔力　言葉にすれば「悩み」は消える](https://zenn.dev/raishi12/articles/42a9f1c79f7374)|悩みへの対処|
 |10|2023/10/28|[1000人のエリートを育てた 爆伸びマネジメント](https://zenn.dev/raishi12/articles/1680193eed4c08)|マネージャー|
-
+|11|2023/10/29|[優れたリーダーはなぜ傾聴力を磨くのか](https://zenn.dev/raishi12/articles/bbcc9f6cf70601)|コミュニケーション|
