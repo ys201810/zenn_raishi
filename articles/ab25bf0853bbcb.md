@@ -32,4 +32,5 @@ published: true
 |10|2023/10/28|[1000人のエリートを育てた 爆伸びマネジメント](https://zenn.dev/raishi12/articles/1680193eed4c08)|マネージャー|
 |11|2023/10/29|[優れたリーダーはなぜ傾聴力を磨くのか](https://zenn.dev/raishi12/articles/bbcc9f6cf70601)|コミュニケーション|
 |12|2023/10/30|[世界一流のエンジニアの思考法](https://zenn.dev/raishi12/articles/e2a96581982cbf)|心の持ち方|
+|13|2023/10/31|[プレイングマネジャー必須スキル 部下が勝手に活躍する魔法の質問　育成する原理・視点・行動がわかる](https://zenn.dev/raishi12/articles/2b56b17100e06d)|マネージャー|
 
