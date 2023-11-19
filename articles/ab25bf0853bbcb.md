@@ -36,4 +36,5 @@ published: true
 |14|2023/11/4|[否定しない習慣](https://zenn.dev/raishi12/articles/2fcf515a1f6c48)|コミュニケーション|
 |15|2023/11/9|[人を選ぶ技術](https://zenn.dev/raishi12/articles/4b940f9cd4e01d)|面接|
 |16|2023/11/11|[シリコンバレー最重要思想家ナヴァル・ラヴィカント](https://zenn.dev/raishi12/articles/9a5febb469500b)|心の持ち方|
+|16|2023/11/14|[武器としての交渉思考](https://zenn.dev/raishi12/articles/44ead60a8a97ea)|交渉|
 
