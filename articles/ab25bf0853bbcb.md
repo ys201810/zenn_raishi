@@ -39,3 +39,4 @@ published: true
 |17|2023/11/14|[武器としての交渉思考](https://zenn.dev/raishi12/articles/44ead60a8a97ea)|交渉|
 |18|2023/11/20|[Amp It Up 最高を超える](https://zenn.dev/raishi12/articles/78c94dc6c0757e)|心の持ち方|
 |19|2023/11/26|[書く習慣 〜自分と人生が変わるいちばん大切な文章力〜](https://zenn.dev/raishi12/articles/77f096a09bbee5)|文章力|
+|20|2023/11/29|[20歳の自分に受けさせたい文章講義](https://zenn.dev/raishi12/articles/ad0821f5f61b01)|文章力|
