@@ -42,4 +42,5 @@ published: true
 |20|2023/11/29|[20歳の自分に受けさせたい文章講義](https://zenn.dev/raishi12/articles/ad0821f5f61b01)|文章力|
 |21|2023/12/7|[モチベーション革命 稼ぐために働きたくない世代の解体書](https://zenn.dev/raishi12/articles/d1959971203f2a)|心の持ち方|
 |22|2024/1/3|[人望が集まる人の考え方](https://zenn.dev/raishi12/articles/3cecaccf353f08)|交渉|
+|23|2024/2/24|[化学的根拠に基づく最高の勉強法](https://zenn.dev/raishi12/articles/495f464a4f8193)|学習方法|
 
